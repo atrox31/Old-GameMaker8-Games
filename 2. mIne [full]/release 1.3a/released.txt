@@ -1,0 +1,144 @@
+mIne 
+
+0.1 - 0.3 PODSTAWOWA WERSJA GRY
+
+#0.3 Alpha 11.04
+DODANE
+- woda (sp³ywa na dó³, dzia³a jak drabina dla gracza)
+- menu (alpha, pozbawione grafiki)
+- nowy ogieñ
+
+NAPRAWIONE
+- Zebranie obsydiany ( fioletowa ska³ka ) daje ju¿ obsydian a nie z³oto.
+- drzewa stwo¿one w sklepie nie zamienaj¹ siê w k³ody ale znikaj¹.
+- bêd¹c w sklepie nie ma ju¿ mo¿liwoœci przemieszczania sie po mapie
+- jaskinie nie s¹ widoczne podczas generowania œwiata
+- naprawiony skrypt œwiat³a
+- drabinki siê mniej buguj¹
+- przekopana ziemia jest bardziej widoczna
+- TNT nie rozwala adamentu
+
+#0.4 Alpha 12.04
+DODANE
+- naprawiono czarne kratki !
+- dzia³anie sklepu 
+- porawione drzewa ( resp czasowy, mozliwoœæ zebrania 100% drzewa )
+- dodano system zapisu, kiedy wyjdziesz z gry poprzez naciœniêcie esc zostanies zapytany
+	czy zapisaæ.Przy ponownym uruchomieniu zostaniesz zapytany czy wczytaæ poprzedn¹ grê.
+- dodano ustawienia
+- muzyka
+- stwory w jaskiniach
+- ograniczenie pochodni
+- dodatkowa ska³a Pruchnica, jest bardzo odporna na uderzenia, nic nie daje
+
+NAPRAWIONE
+- woda gasi pochodnie
+- woda nie wylewa sie poza ekran
+- zmiana kilofa odbywa siê za pomoc¹ klawisza 'X' i 'Z'
+
+#0.5 BETA 15.04
+DODANE
+- ma³a poprawka sklepu ( kupione kilofy maj¹ ¿ó³t¹ ramkê )
+- pierwsza ikona
+- wybuch TNT zabija szkielety
+- licznik drabinek oraz mo¿liwoœæ ich kupienia ( 1 drewna = 5 drabinek )
+- nowy stwór 'blumer' niebieska kulka która wybucha po zetkniêciu z graczem.
+- dodano ¿ycie gracza, mo¿na je straciæ poprzez TNT, wybuch blumera i szkieleta. 
+- grafika gracza
+- dodano samouczek
+
+NAPRAWIONE
+- nie da siê ju¿ wypaœæ za mapê po bokach
+- woda nie wyp³ywa za adament
+- naprawiono b³¹d popoduj¹cy 'znikanie drabinek' gdy gracz wspina³ sie na drzewa
+- szkielety ju¿ nie wypadaj¹ za mapê
+- drobne poprawki kodu
+
+USUNIÊTO
+- usuniêto ustawienia
+
+#1.0 17.04
+DODANO
+- nowa ska³ka 'Rubiny' w sklepie mo¿na wymieniæ rubiny na z³oto.
+   Rubiny wypadaj¹ ze ska³êk w iloœci od 1 do 5
+- wybuchy podrzucaj¹ gracza do góry
+- wybuchy niszcz¹ pochodnie
+- drabinki mo¿na two¿yæ ju¿ nie tylko do góry ale tak¿e na dó³ i w boki
+- dodano aimacje kruszenia ska³ek podczas kopania
+- ska³ki two¿¹ siê strefowo tzn. z³oto bêdzie tylko niedaleko powierzchni
+    a np.obsydian g³êboko pod ziemi¹
+- dodano 'Lawa' utrudnia ona zbieranie rubinów ale zabija tak¿e szkielety i blumery
+   Lawa rani gracza, niszczy drabinki, podpala tnt i dzia³¹ jak pochodna.
+- woda po zetkniêciu z law¹ zamienia siê w obsydian
+
+NPRAWIONO
+- TNT nie two¿y pochodni po wpadniêcu do wody
+- two¿y siê trochê mniej jaskiñ
+- wybuch jednego dynamitu spowoduje zap³on drógiego
+- zmieniono uk³ad interfejsu
+
+# 1.1 18.04
+- Poprawiono œwiat³o
+- Lawa daje œwiat³o
+- Usuniêto klawisz ALT z komend
+
+# 1.1b
+POPRAWIONO / NAPRAWIONO
+- stwory nie chodz¹ ju¿ w ziemi
+- poprawiono wiêkszoœæ grafiki
+- naprawiono nieskczone drewna
+- lawa rozp³ywa siê w wodzie ale woda nie rozp³ywa siê w lawie
+
+DODANO
+- Nowy kilof 'Rubinowy' jest bardzo szybki ale bardzo drogi
+- dodano licznik g³êbokoœci 
+- nowe kszta³ty jaksiñ
+- lawa i woda maj¹ teraz animacjê p³yniêcia
+
+# 1.2
+DODANO
+
+NPRAWIONO
+- Odchudzono grê ( -40mb )
+
+ZMIENIONO
+- filmik pokazuj¹cy grê nie jest ju¿ z wersji beta
+
+# 1.3a
+
+!WYCIÊTO ZBÊDNE ELEMENTY
+- muzyka
+- animacja w menu
+
+!DODANO
+
+ &SKLEP
+ - dodano 'hak' ( kl. C ) s³u¿y on do spinaczki w szybach, alternatywa dla drabin
+  do kupienia w sklepie
+ - nowy przedmiot, latarka na baterie sloneczne, ³aduje siê gdy gracz przebywa na powierzchni
+ - w sklepie przedmioty u³o¿one s¹ w 3 kartach ( kilofy, przedmioty, ulepszenia )
+
+
+ &SKLEPOWE ULEPSZENIA
+ - ULEPSZENIE ( TNT -> trotyl ) Trotyl wybucha na 3x bardziej.
+ - ULEPSZENIE ( wêgiel -> nafta ) Pochodnie œwiec¹ dalej
+
+ &SYSTEM
+ - generator mapy pokazuje % postep
+ - dodano sterowanie WSAD ( mozna równiez na strza³kach )
+
+ &ŒWIAT
+ - nowe bloki kamienia, daj¹ kamieñ którym mo¿na zamykac koryta¿e stawia siê go R
+ - dodano jaksinie z³ota, w których twoz¹ siê ci¹gle nowe ska³y ( 3x3 )
+
+ !NPRAWIONO
+ - gracz nie emituje œwiat³a, chyba ¿e kupi latarke
+
+!ZMIENIONO
+- rozdzielczoœæ z 640x480 do 800x600
+- nowy silnik sklepu, osbs³uguje kategorie
+- zmieniono koszt niektórych rzeczy
+- odœwie¿ono klawiszologie i opisy
+- obrazek wczytywania
+
+

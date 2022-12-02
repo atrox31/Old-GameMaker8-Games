@@ -1,0 +1,52 @@
+ERROR in
+action number 2
+of Create Event
+for object o_menu:
+
+This action is not available in the Lite Edition.
+
+
+ERROR in
+action number 1
+of Create Event
+for object o_gracz:
+
+This action is not available in the Lite Edition.
+
+
+ERROR in
+action number 1
+of Draw Event
+for object o_gracz:
+
+Error in code at line 8:   
+draw_rectangle_color(view_xview[0],view_yview[0],view_xview[0]+800,view_yview[0]+55,c_black,c_black,c_dkgray,c_gray,0)   ^at position 2: This function is not available in the Lite Edition.
+
+
+ERROR in
+action number 1
+of Draw Event
+for object o_gracz:
+
+Error in code at line 8:   
+draw_rectangle_color(view_xview[0],view_yview[0],view_xview[0]+800,view_yview[0]+55,c_black,c_black,c_dkgray,c_gray,0)   ^at position 2: This function is not available in the Lite Edition.
+
+
+ERROR in
+action number 1
+of Draw Event
+for object o_gracz:
+
+Error in code at line 8:   
+draw_rectangle_color(view_xview[0],view_yview[0],view_xview[0]+800,view_yview[0]+55,c_black,c_black,c_dkgray,c_gray,0)   ^at position 2: This function is not available in the Lite Edition.
+
+
+ERROR in
+action number 1
+of Draw Event
+for object o_gracz:
+
+Error in code at line 8:   
+draw_rectangle_color(view_xview[0],view_yview[0],view_xview[0]+800,view_yview[0]+55,c_black,c_black,c_dkgray,c_gray,0)   ^at position 2: This function is not available in the Lite Edition.
+
+
